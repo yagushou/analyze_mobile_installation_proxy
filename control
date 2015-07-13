@@ -1,0 +1,9 @@
+Package: com.hook.install.app
+Name: hook_install_app
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hook
+Author: hook
+Section: Tweaks
